@@ -10,13 +10,11 @@
 
 <p><h1>What is Burp Suite?</h1></p>
 
-<p>A java-based framework designed to serve as a comprehensive web application pentetration testing tool.<br>
+<p>It is a java-based framework designed to serve as a comprehensive web application pentetration testing tool.<br>
 
-It is the industry standard tool for hands-on security assessments of web and mobiles applications,<br>
+It is the industry standard tool for hands-on security assessments of web and mobiles applications, including those that rely on API's (Application Progamming Interfaces)<br>
 
-Including those that rely on API's (Application Progamming Interfaces)</p>
-
-<p>Simply, it captures and enables manipulation of HTTP/HTTPs traffic between client and server.<br>
+Simply, it captures and enables manipulation of HTTP/HTTPs traffic between client and server.<br>
 
 You will be able to intercept, view, and modify web requests before they reach the target server as well as manipulate responess before they reach the browser.</p>
 
