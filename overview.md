@@ -18,7 +18,5 @@ Including those that rely on API's (Application Progamming Interfaces)</p>
 
 <p>Simply, it captures and enables manipulation of HTTP/HTTPs traffic between client and server.<br>
 
-You will be able to intercept, view, and modify web requests before they reach the target server as well as<br>
-
-Manipulate responess before they reach the browser.</p>
+You will be able to intercept, view, and modify web requests before they reach the target server as well as manipulate responess before they reach the browser.</p>
 
