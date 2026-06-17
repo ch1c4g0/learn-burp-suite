@@ -18,3 +18,6 @@ Simply, it captures and enables manipulation of HTTP/HTTPs traffic between clien
 
 You will be able to intercept, view, and modify web requests before they reach the target server as well as manipulate responess before they reach the browser.</p>
 
+**<p>Download Burp Suite here,</p>**
+
+https://portswigger.net/burp/releases
