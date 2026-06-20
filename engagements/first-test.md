@@ -19,7 +19,7 @@ Upon review, I noticed a path with randomized characters that seemed way differe
 This ended up being our flag value.</p>
 
 http://10.66.176.29/ticket/
-http://10.66.176.29/**5yjR2GLcoGoij2ZK**
+http://10.66.176.29/5yjR2GLcoGoij2ZK
 
 ```
 THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}
